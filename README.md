@@ -1,1 +1,0 @@
-# dart-4-psychiatrie
